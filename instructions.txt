@@ -1,0 +1,5 @@
+pour exécuter ce code python on remplace les valeurs a et b de la fonction par les 
+nombres dont on souhaite faire la somme. 
+
+EX: resultat = somme(5, 3)
+print(resultat)  # Affichera 8
